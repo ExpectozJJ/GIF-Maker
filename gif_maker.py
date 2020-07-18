@@ -2,6 +2,9 @@ import cv2
 import imageio
 import os
 
+# Created by ExpectozJJ
+# 19th July 2020
+
 # Opens the Video file
 cap = cv2.VideoCapture('video.mp4')
 
